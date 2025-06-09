@@ -6,6 +6,6 @@ Tools: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, category_encoders.
 
 ** Project 3: Air quality in Dar es salaam**
 
-This project analyzes air quality in Dar es Salaam using machine learning and time series techniques. It involves querying and extracting data from MongoDB, data preprocessing, EDA, visualization, model training (AR), forecasting, and evaluation of pollutants like PM2.5.
+This project analyzes air quality in Dar es Salaam using time series techniques. It involves querying and extracting data from MongoDB, data preprocessing, EDA, visualization, model training (AR), forecasting, and evaluation of pollutants like PM2.5.
 
-Tools: MongoDB, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, statsmodels.
+Tools: MongoDB, Pandas, Matplotlib, Seaborn, scikit-learn, statsmodels.
