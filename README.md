@@ -16,3 +16,12 @@ This project involves building classification models for predicting whether a bu
 
 Tools: SQL, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, category_encoders.
 
+**Project 5: Bankruptcy in Taiwan**
+In this project, real-world financial data from Taiwan companies was used to predict the likelihood of bankruptcy. It involves decompressing and loading data from JSON files, balancing data with a random over sampler,  builiding Random forest classifer, GridSearchCV, confusion matrix, evaluating, model deployment, and communicating results.
+
+Tools: JSON, Pandas, scikit-learn, imblearn.
+
+
+
+
+
