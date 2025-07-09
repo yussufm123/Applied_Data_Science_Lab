@@ -1,3 +1,5 @@
+The projects are from [WoldQuant University](https://www.wqu.edu/) which are offered the Applied Data Science program.
+
 **Project 1 & 2: Housing prices prediction – Brazil & Mexico City**
 
 These projects involve predicting housing prices using a linear regression model. It includes data wrangling, exploratory data analysis (EDA), visualization, model training, correlation studies, price prediction, and evaluation.
