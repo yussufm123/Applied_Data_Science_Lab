@@ -1,4 +1,4 @@
-The projects are from [WoldQuant University](https://www.wqu.edu/) which are offered the Applied Data Science program.
+The projects are from [WoldQuant University] (https://www.wqu.edu/) which are offered the Applied Data Science program.
 
 **Project 1 & 2: Housing prices prediction – Brazil & Mexico City**
 
