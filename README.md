@@ -2,7 +2,7 @@ These are series of assignment projects from [WoldQuant University](https://www.
 
 **Project 1 & 2: Housing prices prediction – Brazil & Mexico City**
 
-These projects involve predicting housing prices using a linear regression model. It includes data wrangling, exploratory data analysis (EDA), visualization, model training, correlation studies, price prediction, and evaluation.
+These projects involve predicting housing prices using a regression model. It includes data wrangling, exploratory data analysis (EDA), visualization, Linear and Ridge regression model training, correlation studies, price prediction, and evaluation.
 
 Tools: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, category_encoders, Linear and Ridge regression.
 
@@ -16,13 +16,13 @@ Tools: MongoDB, Pandas, Matplotlib, Seaborn, scikit-learn, statsmodels.
 
 This project involves building classification models for predicting whether a building will be damage during an earthquake. The key steps include querying SQL database, data preprocessing, EDA, builiding Logistic regression and Decision tree models, evaluating and communicating results.
 
-Tools: SQL, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, category_encoders.
+Tools: SQL, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, category_encoders, Logistic regression, Decision tree.
 
 **Project 5: Bankruptcy in Taiwan**
 
 In this project, real-world financial data from Taiwan companies was used to predict the likelihood of bankruptcy. It involves decompressing and loading data from JSON files, balancing data with a random over sampler,  builiding Random forest classifer, GridSearchCV, confusion matrix, evaluating, model deployment, and communicating results.
 
-Tools: JSON, Pandas, scikit-learn, imblearn.
+Tools: JSON, Pandas, scikit-learn, RandomOverSampler, Random forest classifer, GridSearchCV.
 
 **Project 6: Small Business Owners in the United States**
 
