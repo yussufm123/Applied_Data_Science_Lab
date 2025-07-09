@@ -28,5 +28,5 @@ Tools: JSON, Pandas, scikit-learn, RandomOverSampler, Random forest classifer, G
 
 This project involves examining some demographic characteristics of the group, such as age, income category, and debt vs home value. Then selecting high-variance features to create a KMneans clustering model to divide small business owners into subgroups, and lastly creating PCA scatter plot to highlight the differences between these subgroups. Additionally, it also includes developing an interactive dash web that combine all of these elements into a dynamic web application that will allow users to choose their own features, build a model, and evaluate its performance through a graphical user interface.
 
-Tools: Pandas, Seaborn, Plotly, scikit-learn, StandScaler, KMneans, Dash, HTML.
+Tools: Pandas, Seaborn, Plotly, scikit-learn, StandardScaler, KMeans, Dash, HTML.
 
