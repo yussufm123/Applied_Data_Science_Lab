@@ -17,7 +17,7 @@ Tools: MongoDB, Pandas, Matplotlib, Seaborn, scikit-learn, statsmodels.
 
 **Project 4: Earthquake damage in Nepal**
 
-This project involves building classification models for predicting whether a building will be damage during an earthquake. The key steps include querying SQL database, data preprocessing, EDA, builiding Logistic regression and Decision tree models, evaluating and communicating results.
+This project involves building classification models for predicting whether a building will be damaged during an earthquake. The key steps include querying SQL database, data preprocessing, EDA, builiding Logistic regression and Decision tree models, evaluating and communicating results.
 
 Tools: SQL, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, category_encoders, Logistic regression, Decision tree.
 
