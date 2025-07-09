@@ -2,7 +2,7 @@ These are series of assignment projects from [WoldQuant University](https://www.
 
 **Project 1 & 2: Housing prices prediction – Brazil & Mexico City**
 
-These projects involve predicting housing prices using a regression model. It includes data wrangling, exploratory data analysis (EDA), visualization, Linear and Ridge regression model training, correlation studies, price prediction, and evaluation.
+These projects involve predicting housing prices using a regression model. It includes data wrangling, exploratory data analysis (EDA), imputing missing values, Linear and Ridge regression model training, correlation studies, price prediction, and evaluation.
 
 Tools: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, category_encoders, Linear and Ridge regression.
 
