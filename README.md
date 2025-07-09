@@ -4,7 +4,7 @@ These are series of projects from [WoldQuant University](https://www.wqu.edu/) w
 
 These projects involve predicting housing prices using a linear regression model. It includes data wrangling, exploratory data analysis (EDA), visualization, model training, correlation studies, price prediction, and evaluation.
 
-Tools: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, category_encoders.
+Tools: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, category_encoders, Linear and Ridge regression.
 
 **Project 3: Air quality in Dar es salaam**
 
