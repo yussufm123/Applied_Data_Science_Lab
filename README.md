@@ -1,4 +1,4 @@
-These are series of projects from [WoldQuant University](https://www.wqu.edu/) which are offered through the Applied Data Science Lab program and were assigned at the end of each module.
+These are series of assignment projects from [WoldQuant University](https://www.wqu.edu/) which are offered through the Applied Data Science Lab program and were assigned at the end of each module.
 
 **Project 1 & 2: Housing prices prediction – Brazil & Mexico City**
 
